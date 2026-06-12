@@ -38,6 +38,14 @@
       </tags>
   </entry>
   <entry>
+    <title>ddd</title>
+    <url>/2026/06/10/ddd/</url>
+    <content><![CDATA[]]></content>
+      <tags>
+        <tag>小麦</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>test</title>
     <url>/2026/06/09/test/</url>
     <content><![CDATA[<p>基于 github.com 中的 Pages 功能以及 hexo 架构（Node.js），从零开始建一个静态博客网站。</p>
@@ -323,14 +331,6 @@
 ]]></content>
       <tags>
         <tag>网站</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>ddd</title>
-    <url>/2026/06/10/ddd/</url>
-    <content><![CDATA[]]></content>
-      <tags>
-        <tag>小麦</tag>
       </tags>
   </entry>
 </search>
