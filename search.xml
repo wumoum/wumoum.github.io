@@ -33,15 +33,7 @@
         <category>区情</category>
       </categories>
       <tags>
-        <tag>小麦</tag>
         <tag>天赐</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>ddd</title>
-    <url>/2026/06/10/ddd/</url>
-    <content><![CDATA[]]></content>
-      <tags>
         <tag>小麦</tag>
       </tags>
   </entry>
@@ -331,6 +323,14 @@
 ]]></content>
       <tags>
         <tag>网站</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>ddd</title>
+    <url>/2026/06/10/ddd/</url>
+    <content><![CDATA[]]></content>
+      <tags>
+        <tag>小麦</tag>
       </tags>
   </entry>
 </search>
